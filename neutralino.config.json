@@ -1,0 +1,31 @@
+{
+  "applicationId": "com.dg.appliance-tool",
+  "version": "1.0.0",
+  "defaultMode": "window",
+  "documentRoot": "/dist",
+  "url": "/index.html",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "nativeAllowList": [
+    "app.*",
+    "window.*",
+    "events.*"
+  ],
+  "modes": {
+    "window": {
+      "title": "Customer Appliance Guidance Tool",
+      "width": 1200,
+      "height": 800,
+      "minWidth": 800,
+      "minHeight": 600,
+      "maximizable": true,
+      "resizable": true,
+      "icon": "/www/icon.png"
+    }
+  },
+  "cli": {
+    "binaryName": "appliance-tool",
+    "resourcesPath": "/dist/",
+    "extensionsPath": "/extensions/"
+  }
+}

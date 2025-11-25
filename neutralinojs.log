@@ -1,0 +1,22 @@
+INFO 2025-07-22 13:01:26,815 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:01:27,327 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:01:28,470 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:01:33,493 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:02:03,504 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:03:03,520 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-07-22 13:05:31,617 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-07-22 13:05:32,194 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-07-24 10:42:00,059 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-07-24 10:42:00,787 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-08-08 11:44:58,035 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-08-08 11:44:58,741 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-08-08 14:10:37,926 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-08-08 14:10:38,662 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-08-08 14:54:09,618 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-08-08 14:54:10,241 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-08-08 15:10:08,303 NE_RS_UNBLDRE: Unable to load application resource file /dist/neutralino.js api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-08-08 15:10:08,989 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-08-08 16:29:27,615 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-08-08 22:50:03,581 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+INFO 2025-08-13 21:37:47,637 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
+ERROR 2025-08-13 21:37:48,791 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
