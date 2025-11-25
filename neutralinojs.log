@@ -1,22 +1,56 @@
-INFO 2025-07-22 13:01:26,815 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:01:27,327 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:01:28,470 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:01:33,493 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:02:03,504 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:03:03,520 NE_RS_UNBLDRE: Unable to load application resource file /../dist/ api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-07-22 13:05:31,617 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-07-22 13:05:32,194 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-07-24 10:42:00,059 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-07-24 10:42:00,787 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-08-08 11:44:58,035 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-08-08 11:44:58,741 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-08-08 14:10:37,926 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-08-08 14:10:38,662 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-08-08 14:54:09,618 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-08-08 14:54:10,241 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-08-08 15:10:08,303 NE_RS_UNBLDRE: Unable to load application resource file /dist/neutralino.js api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-08-08 15:10:08,989 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-08-08 16:29:27,615 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-ERROR 2025-08-08 22:50:03,581 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
-INFO 2025-08-13 21:37:47,637 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 James@DESKTOP-365I61F
-ERROR 2025-08-13 21:37:48,791 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 James@DESKTOP-365I61F
+ERROR 2025-08-20 11:32:26,064 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-22 10:14:01,567 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-25 14:25:27,921 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-26 07:41:48,959 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-26 13:34:42,449 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 08:04:18,300 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 22:48:11,946 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 22:48:50,609 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 22:49:03,934 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 22:54:01,153 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-27 22:58:50,184 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-08-28 07:37:35,264 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-01 10:02:08,952 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-02 09:57:13,033 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-02 23:08:16,069 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-02 23:42:01,525 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-03 10:41:43,355 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-04 09:43:03,355 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-05 09:58:26,896 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-08 08:31:12,232 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-09 08:11:43,063 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-10 08:23:09,180 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-13 08:33:05,068 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-14 09:32:37,693 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-19 09:28:11,813 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-20 09:30:06,337 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-22 08:04:23,753 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-23 08:19:55,384 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-23 08:19:55,392 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-24 08:22:13,252 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-24 08:39:54,753 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-25 08:53:53,449 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-26 08:52:30,956 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-27 10:34:48,329 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-29 11:15:33,786 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-09-30 11:30:12,273 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-01 10:37:33,243 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-02 11:07:34,579 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-03 10:49:38,752 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-06 07:47:20,208 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-07 08:08:51,452 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-3N1GINM
+ERROR 2025-10-13 09:53:55,259 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-10 11:47:36,210 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-11 11:30:36,545 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-13 11:26:14,432 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-14 10:50:53,159 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-14 11:32:26,280 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-17 07:28:07,891 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-18 08:19:58,021 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-19 08:01:45,168 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-20 07:51:32,419 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-21 08:02:25,954 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-22 09:56:33,373 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-25 13:03:54,942 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-25 17:50:59,057 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
+ERROR 2025-11-25 17:51:15,184 NE_RS_UNBLDRE: Unable to load application resource file /dist/favicon.ico api\debug\debug.cpp:20 jdcar@DESKTOP-GPNN207
